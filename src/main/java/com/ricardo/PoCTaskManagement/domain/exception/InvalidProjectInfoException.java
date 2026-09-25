@@ -1,10 +1,10 @@
 package com.ricardo.PoCTaskManagement.domain.exception;
 
-public class InvalidTaskStatusException extends RuntimeException {
+public class InvalidProjectInfoException extends RuntimeException {
 
 	private static final long serialVersionUID = 1L;
 
-	public InvalidTaskStatusException(String message) {
+	public InvalidProjectInfoException(String message) {
 		super(message);
 	}
 }
