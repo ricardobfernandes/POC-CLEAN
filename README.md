@@ -632,22 +632,6 @@ The in-memory database is cleared when the application stops.
 
 ---
 
-## Project Scope and Future Improvements
-
-This is an educational POC focused on architecture and application structure.
-
-Possible future improvements include:
-
-- Automated unit and integration tests;
-- Authentication and authorization;
-- More advanced task status transition rules;
-- Pagination and sorting;
-- Persistent database configuration;
-- Project membership and access control;
-- API documentation with OpenAPI / Swagger.
-
----
-
 ## Author
 
 Ricardo Fernandes
